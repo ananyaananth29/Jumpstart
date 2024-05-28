@@ -1,0 +1,6 @@
+In conda prompt:
+1. conda create -n streamlit-env python=3.10 --> to create a new virtual env
+2. conda activate streamlit-env
+3. pip install streamlit
+4. streamlit hello
+
